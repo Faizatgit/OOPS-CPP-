@@ -1,0 +1,3 @@
+Inheritance is a fundamental concept in object-oriented programming that allows a new class 
+(subclass or derived class) to inherit properties and behaviors from an existing class (superclass or base class). 
+Here's a simple example in C++:
